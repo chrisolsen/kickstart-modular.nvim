@@ -221,6 +221,16 @@ return {
         -- ts_ls = {},
         --
 
+        gopls = {},
+        ts_ls = {},
+        svelte = {},
+        cssls = {},
+        html = {},
+        htmx = {},
+        prettier = {},
+        eslint = {},
+        emmet_ls = {},
+
         lua_ls = {
           -- cmd = { ... },
           -- filetypes = { ... },
